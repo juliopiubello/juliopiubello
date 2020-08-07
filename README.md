@@ -1,6 +1,11 @@
 ## Hi, I'm Júlio.
 
-I'm an entrepreneur, full stack javascript developer working at [Gitstart](https://www.gitstart.com).
+I'm a learning entrepreneur and full stack javascript developer working at [Gitstart](https://www.gitstart.com).
+
+### Experience
+- React
+- ReactNative
+- Node
 
 ### Find me
 
