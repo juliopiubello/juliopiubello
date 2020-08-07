@@ -4,7 +4,7 @@ I'm a learning entrepreneur and full stack javascript developer working at [Gits
 
 ### Experience
 - React
-- ReactNative
+- React Native
 - Node
 
 ### Find me
